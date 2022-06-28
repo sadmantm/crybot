@@ -19,6 +19,7 @@
 	"homepage": "https://github.com/KillovSky/iris",
 	"license": "MIT",
 	"dependencies": {
+		"parse-server": "3.6.0"
 		"@ffmpeg-installer/ffmpeg": "^1.1.0",
 		"@imlinhanchao/google-translate-api": "^8.0.1",
 		"@open-wa/wa-automate": "^4.25.1",
