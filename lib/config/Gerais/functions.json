@@ -1,0 +1,36 @@
+{
+	"antinumbers": [],
+	"mute": [],
+	"antilinks": [],
+	"antiporn": [],
+	"antitravas": [],
+	"blacklist": [],
+	"fake": [],
+	"nsfw": [],
+	"event": [],
+	"autosticker": [
+		"120363021762255395@g.us"
+	],
+	"goodbye": [
+		"120363021762255395@g.us"
+	],
+	"welcome": [
+		"120363021762255395@g.us"
+	],
+	"rank": [],
+	"safelinks": [],
+	"vips": {},
+	"birthdays": {
+		"120363021762255395@g.us": {
+			"date": "03/12",
+			"year": "2021",
+			"last_check": "never"
+		}
+	},
+	"badwords": {},
+	"chatBot_Type": {},
+	"guild": [
+		"COMPANIONS",
+		"THIEVES"
+	]
+}
